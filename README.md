@@ -65,8 +65,10 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 </picture></a> &nbsp;
 </div>
 
+<h1>
+  ⚜️ Badges
+</h1>
 
-## ⚜️ Badges
 
 <div align="center">
   
