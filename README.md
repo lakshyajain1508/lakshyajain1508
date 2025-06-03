@@ -111,9 +111,9 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 </a> &nbsp;
 </div>
 
-<h2>
+<h1>
 🎵 Music
-</h2>
+</h1>
 <div align=center>
 <br/>
   
