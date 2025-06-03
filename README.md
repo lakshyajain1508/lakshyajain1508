@@ -51,9 +51,6 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" />
 </picture></a> &nbsp;
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/django-colored-dark.svg" alt="Django" />
-</picture></a> &nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/mysql-colored.svg" alt="MySQL" />
 </picture></a> &nbsp;
@@ -62,6 +59,9 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 </picture></a> &nbsp;
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/figma-colored.svg" alt="Figma" />
+</picture></a> &nbsp;
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/django-colored-dark.svg" alt="Django" />
 </picture></a> &nbsp;
 </div>
 
