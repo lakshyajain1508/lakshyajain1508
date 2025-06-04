@@ -81,6 +81,17 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 </div>
 
 <h1>
+🛠️ Contributions
+</h1>
+
+<div align="center">
+  
+![snake gif](https://github.com/lakshyajain1508/lakshyajain1508/blob/output/github-snake.svg)
+  
+</div>
+
+
+<h1>
    🌐 Social
 </h1>
 
