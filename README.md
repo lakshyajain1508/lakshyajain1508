@@ -1,9 +1,9 @@
-# Hi there, I'm Lakshya Jain <img src="https://s4.ezgif.com/tmp/ezgif-45dd61dc60aad2.gif" width="35">
+# Hi there, I'm Lakshya Jain <img src="https://d3beq4llg5odue.cloudfront.net/d34mgf%2Fpreview%2F67906012%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749396809&Signature=JdWIXbbtbSkGmQwsawnoWXEl6gURF4tIMISDUcdUT-KHq0aTcdmYOaBXqJdtQcSRVNMRUvy0E5GSZnRDCeVx32qkJU4dymK0oNLYbZFbggkv04KJPwV9u1H1KpiE2SWgFsgSI1Jb4x79BNPP8Ce4QxPPn3~f5QOG33zpbF0EFShq86h8UvQ7E~EWcFMRkLr2uLUstb59i-If63pt-kEgm6Btapm48KxUiZJT2waU28ja21ihyOeJ8A8YlEkhk~G6wzSQMVkf2mjOR8k66760Pss~~3jwXSusfeNcrXEIiJtUrrlg-Fzt984LFFnNI66XDIzrrzETlolUffa7BfizNQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="35">
 
 Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I love coding and building innovative projects, and I'm always exploring new technologies.
 
 <h1>
-<img src="https://em-content.zobj.net/source/noto-emoji-animations/344/rocket_1f680.gif" width="30"> About Me
+<img src="https://d1fw7tsl1fv5p3.cloudfront.net/e0pzgf%2Fpreview%2F67906501%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749396945&Signature=KKo-nXIZHbDSLnFiczQB1Dn5TEysHknGVijvwK~BacycXa5QyFk5ZS9G0wKPbh6XR6ELoGfMVnmbiaXbiek0PS9fjWEEicytOGE7mzPqIOHtaGHuMnlgKnkTrfmREvti7hWLrm-NhXTRe1H2RBWzG6JZ726muWn6vAu931KJ5Rb8~fE5MNkzGupvheCiA0plkOi3VdDAN6w24rrrXJ~UnzeQZxkW0ODX0JLvhsQ8TkAp61QL4Re7P-Dxoch8lIf6coi2F0EtfpSXXh8~-fenaeKFUDfFBIvWmitiGiWqpbByOv8K8V0bkP87cooY837OUX93bRDz-TgP5dKT2c7JDg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="30"> About Me
 </h1>
 
 - 🔭 I’m currently working on **Focusing On Skills Updating**
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 
 
 <h1>
- <img src="https://s4.ezgif.com/tmp/ezgif-46df100f3f1671.gif" width="40">  Skills 
+ <img src="https://d2tcgf3zx24xll.cloudfront.net/s8wkgf%2Fpreview%2F67905968%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749396761&Signature=Md63pWIoaUsBySaj4gwFrr1cPkr3uMpT6HNj1Gzx3g0JHWVa1lARk8RX4NbcDPNd3SxhlO5uJ3CTjrBsRr2Fx6J4cHll1E~MPyKf~mj3Z9Au1wC9ii8ifuTfelNBnuRLZKpR8XIaFRgF81k~iZyCPDOJGmJrZ~RhiZtWUshQf74BqUKxty6i~gU5fikiM2IXy0MC7fMkTrb9p~tWSlPdaOSTzSG7vBIja0ZhbdEcnVFHAKpvVLO3~bBOi7qVQIAap4ISBVYHIWpuS4X68kHi26~PxeKjeu91ic8DOskCxA4vBSQQ0hnaUn~2KqGdovZR9tAMKgg5un1fk5ya7iFCLA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="40">  Skills 
 </h1>
 
 
@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 </div>
 
 <h1>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWo4NzNxNjF5djN2bXg4OGl3YWFsbnNhcmp2NHQ5MXhnMXh6b3hkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gJnjM552Kz2uUQvJEf/giphy.gif" width="45"> Badges
+<img src="https://d11b3kka56uxd.cloudfront.net/k2f1hf%2Fpreview%2F67906563%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749397103&Signature=ctvsW5NInYq9laCI8E5nRFo~v4OnbEocZlCrsb1BImlZ4pXk24IfbxgM57RktTpqdJeY3fWHymrkPfmlnOhuGb1ZWvqHcC7W15zLvR42qQ05p3eQ2y46wmwTsI4pGAzCy7rpksd0wdE~gl1N924j~4CyEPj9LdlpzTrEJdMHh6Z2yBR4Mup30U~xaoDIBKT9shFqGG1Kvo59i8bI-tP5yEFMqQKM-~Mddzv4rVP19Q~aD7-APQISQnOWA3w5Y-nHt3t7o6ut7gDrWSpOB1dqOF5tAJnvXmIaPp0mX20yxuDsJxppe8fSOU6YZcgQ84MprbVacu5yoNQSJM-0qjoHAw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="45"> Badges
 </h1>
 
 
@@ -81,7 +81,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 </div>
 
 <h1>
-<img src="https://s4.ezgif.com/tmp/ezgif-4a1cfcf697feea.gif" width="60"> Contributions
+<img src="https://d1qde0807mi10y.cloudfront.net/s2imgf%2Fpreview%2F67906026%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749396682&Signature=gjFLagKys5MOGM-Hx0CV3liXzbKjnXVMNBB7lDmeGVkhyEFgUbkkQsZImFQ558XxqG-AV9cVu3CKpcALDTJaOXeAXiHYpn7RCJFG90NuDdwjJSgvISaNnr6rj9KRuxOSYQFJ4HAI2yTfh28IBx9SpGje~kOVznFrz0Tv0wxnEduNxA2eWqapze1~sOMlySHKP1kpXU6idk10J8jePRZ-qrEslehA3rW0APbKeNaYn1~~nW34wJ3MkYWrzUpZtdLO5M5uzTkU5bAsJcy-Xm6Az6xvdD3ymx9zBnucQgaAvLDLKQqZahqgVDmzLTr1pXyVfYi9LqVNclHB8lHoPDzDOw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="60"> Contributions
 </h1>
 
 <div align="center">
