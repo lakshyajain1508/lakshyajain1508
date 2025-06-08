@@ -92,9 +92,8 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 
 
 <h1>
-   🌐 Social
+<img src="https://d1qxrac4t1asb.cloudfront.net/g983if%2Fpreview%2F67907924%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749401945&Signature=I4C3AledigXqb3iPZzZIuHwI5h38DCT6RuR4LW4BHoHvKyfEJNN42JQp1qtXaBpnPup0Wqjxwiw0ubskTuOTEuGC1XSxSgtMEAGltsFnXYOISkm9Q8f5I4Vi9K~9SYlp-IaUKZpcd48ASdxrBQuw9Q5wT3ecgdE5jos0qtEwCL6U2bnTvYJg8IUWuCPowFkQeGQ2DH6zMoknC~LdPGo-clYsCRWe8Hxd19VlDULFYUejlR1B9Jz9W~B4~Bdv3gE67LntJfFtXCCVF2rw9y1nbJ3jvqcORVGU71m1iTR1wtC1CKPOwZPoUoaRJou~Dq4qtrh182jIYAQoJ3z4lPtNZA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="35"> Social
 </h1>
-
 
 
 <div align="center">
@@ -123,7 +122,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 </div>
 
 <h1>
-🎵 Music
+<img src="https://d168ijdb11kbqj.cloudfront.net/c984if%2Fpreview%2F67907960%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749402177&Signature=e9DYiaBohpSfUtOiixI46uWPhrRGhHjY5CuBpDAOc~UYSzBs6TwEBsPDcOErCq7BGtbuWANWm89XRzvuX82kt4UWASFbYWGwH5ndKkNQke-rSZlhzkJ-wcWFEb0pjWHTaw3S4iPsCnsbPEBeQXd3~wjtOzy2mmsSEkxw4xa~~YR5Zmojhwlge5djBwYDEXSsGkRr1pWy1JWlpJOkrS8PIoTLfCcS61aaFXPR8PVs4SIjV8D3SprqbsGzIl6YY-MyTh6SlZw46IUtK~A7TC~Dwkt84Qgi4~~5wLK4sYxG-D2qt2qclS0rd6r8nnH8KiypjLo60y2DHt5GRttCtNVnog__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="40"> Music
 </h1>
 <div align=center>
 <br/>
