@@ -69,7 +69,6 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 <img src="https://d11b3kka56uxd.cloudfront.net/k2f1hf%2Fpreview%2F67906563%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749397103&Signature=ctvsW5NInYq9laCI8E5nRFo~v4OnbEocZlCrsb1BImlZ4pXk24IfbxgM57RktTpqdJeY3fWHymrkPfmlnOhuGb1ZWvqHcC7W15zLvR42qQ05p3eQ2y46wmwTsI4pGAzCy7rpksd0wdE~gl1N924j~4CyEPj9LdlpzTrEJdMHh6Z2yBR4Mup30U~xaoDIBKT9shFqGG1Kvo59i8bI-tP5yEFMqQKM-~Mddzv4rVP19Q~aD7-APQISQnOWA3w5Y-nHt3t7o6ut7gDrWSpOB1dqOF5tAJnvXmIaPp0mX20yxuDsJxppe8fSOU6YZcgQ84MprbVacu5yoNQSJM-0qjoHAw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="45"> Badges
 </h1>
 
-
 <div align="center">
   
 #### My GitHub Stats
