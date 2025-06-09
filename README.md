@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I love coding and building innovative projects, and I'm always exploring new technologies.
 
 <h1>
-<img src="https://d1fw7tsl1fv5p3.cloudfront.net/e0pzgf%2Fpreview%2F67906501%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749396945&Signature=KKo-nXIZHbDSLnFiczQB1Dn5TEysHknGVijvwK~BacycXa5QyFk5ZS9G0wKPbh6XR6ELoGfMVnmbiaXbiek0PS9fjWEEicytOGE7mzPqIOHtaGHuMnlgKnkTrfmREvti7hWLrm-NhXTRe1H2RBWzG6JZ726muWn6vAu931KJ5Rb8~fE5MNkzGupvheCiA0plkOi3VdDAN6w24rrrXJ~UnzeQZxkW0ODX0JLvhsQ8TkAp61QL4Re7P-Dxoch8lIf6coi2F0EtfpSXXh8~-fenaeKFUDfFBIvWmitiGiWqpbByOv8K8V0bkP87cooY837OUX93bRDz-TgP5dKT2c7JDg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="30"> About Me
+<img src="https://d1fw7tsl1fv5p3.cloudfront.net/e0pzgf%2Fpreview%2F67906501%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1749396945&Signature=KKo-nXIZHbDSLnFiczQB1Dn5TEysHknGVijvwK~BacycXa5QyFk5ZS9G0wKPbh6XR6ELoGfMVnmbiaXbiek0PS9fjWEEicytOGE7mzPqIOHtaGHuMnlgKnkTrfmREvti7hWLrm-NhXTRe1H2RBWzG6JZ726muWn6vAu931KJ5Rb8~fE5MNkzGupvheCiA0plkOi3VdDAN6w24rrrXJ~UnzeQZxkW0ODX0JLvhsQ8TkAp61QL4Re7P-Dxoch8lIf6coi2F0EtfpSXXh8~-fenaeKFUDfFBIvWmitiGiWqpbByOv8K8V0bkP87cooY837OUX93bRDz-TgP5dKT2c7JDg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="35"> About Me
 </h1>
 
 - 🔭 I’m currently working on **Focusing On Skills Updating**
