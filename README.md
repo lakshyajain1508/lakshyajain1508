@@ -1,4 +1,4 @@
-# Hi there, I'm Lakshya Jain <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/attitude.gif" width="35">
+# Hey , I'm Lakshya Jain <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/attitude.gif" width="35">
 
 Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I love coding and building innovative projects, and I'm always exploring new technologies.
 
@@ -74,8 +74,8 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 #### My GitHub Stats
 
 
-<a href="https://github.com/lakshyajain1508"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyajain1508&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> <br/>
-<a href="http://www.github.com/lakshyajain1508"><img src="https://github-readme-stats.vercel.app/api?username=lakshyajain1508&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&" alt="lakshyajain1508's GitHub stats" /></a> <br/><br/>
+<a href="https://github.com/lakshyajain1508"><img src="" alt="Top Languages" /></a> <br/>
+<a href="http://www.github.com/lakshyajain1508"><img src="" /></a> <br/><br/>
 
 </div>
 
