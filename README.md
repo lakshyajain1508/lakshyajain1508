@@ -74,7 +74,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 #### My GitHub Stats
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=lakshyajain1508&theme=dark&title_color=ffffff&text_color=ffffff&icon_color=0891b2&hide_border=true"/><br>
-<a href="https://github.com/lakshyajain1508"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshyajain1508&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> <br/>
+<a href="https://github.com/lakshyajain1508"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyajain1508&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> <br/>
 <a href="http://www.github.com/lakshyajain1508"><img src="https://github-readme-stats.vercel.app/api/?username=lakshyajain1508&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&theme=dark&hide_border=true&show_icons=true&%22%20alt=%22lakshyajain1508%27s%20GitHub%20stats" /></a>
 <br/><br/>
 
