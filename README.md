@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 
 - 🔭 I’m currently working on **Focusing On Skills Updating**
 - 🌱 I’m currently learning **Full Stack Python Developer**
-- 💬 Ask me about **Web Development, Python and Java**
+- 💬 Ask me about <a href="https://github.com/lakshyajain1508/Javascript"> **Javascript** </a>
 - 📫 How to reach me: lakshyajain1508@gmail.com
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Found me 😴**
