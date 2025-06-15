@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 - 💬 Ask me about **Web Development, Python and Java**
 - 📫 How to reach me: lakshyajain1508@gmail.com
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **Offline 😴**
+- ⚡ Fun fact: **Found me 😴**
 
 
 <h1>
