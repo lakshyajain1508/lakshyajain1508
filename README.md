@@ -122,7 +122,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 </div>
 
 <h1>
-<img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/music.gif" width="40"> Music
+<img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/music.gif" width="40"> Currently Listening
 </h1>
 <div align=center>
 <br/>
