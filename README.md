@@ -21,47 +21,47 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 
 <div align="center">
 <br/>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/html5-colored.svg" alt="HTML5" />
+<a href="https://github.com/lakshyajain1508/HTML-CSS" target="_blank" rel="noreferrer"><picture>
+<img height="60" width="60" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/html5-colored.svg" alt="HTML5" />
 </picture></a> &nbsp;
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/css3-colored.svg" alt="CSS3" />
+<a href="https://github.com/lakshyajain1508/HTML-CSS" target="_blank" rel="noreferrer"><picture>
+<img height="60" width="60" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/css3-colored.svg" alt="CSS3" />
 </picture></a> &nbsp;
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/figma-colored.svg" alt="Figma" />
+<a href="#" target="_blank" rel="noreferrer"><picture>
+<img height="60"0 width="60" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/figma-colored.svg" alt="Figma" />
 </picture></a> &nbsp;
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" />
+<a href="https://lakshyajain1508.github.io/String-Function/" target="_blank" rel="noreferrer"><picture>
+<img height="60" width="60" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" />
 </picture></a> &nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" />
+<a href="#" target="_blank" rel="noreferrer"><picture>
+<img height="60" width="60" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" />
 </picture></a> &nbsp;
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/jquery-colored.svg" alt="JQuery" />
+<a href="#" target="_blank" rel="noreferrer"><picture>
+<img height="60" width="60" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/jquery-colored.svg" alt="JQuery" />
 </picture></a> &nbsp;
 <a href="https://github.com/lakshyajain1508/Javascript"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" />
-</picture></a> &nbsp;
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/c-colored.svg" alt="C" />
+<img height="60" width="60" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" />
+</picture></a> &nbsp;<br><br>
+<a href="https://github.com/lakshyajain1508/sjcem/tree/main/C" target="_blank" rel="noreferrer"><picture>
+<img height="60" width="60" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/c-colored.svg" alt="C" />
 </picture></a> &nbsp;
 <a href="https://github.com/lakshyajain1508/CPP" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/cplusplus-colored.svg" alt="C++" />
+<img height="60" width="60" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/cplusplus-colored.svg" alt="C++" />
 </picture></a> &nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/mysql-colored.svg" alt="MySQL" />
+<a href="https://github.com/lakshyajain1508/MySQL" target="_blank" rel="noreferrer"><picture>
+<img height="60" width="60" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/mysql-colored.svg" alt="MySQL" />
 </picture></a> &nbsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" />
+<a href="#" target="_blank" rel="noreferrer"><picture>
+<img height="60" width="60" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" />
 </picture></a> &nbsp;
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/java-colored.svg" alt="Java" />
+<a href="https://github.com/lakshyajain1508/sjcem/tree/main/Java%20Code" target="_blank" rel="noreferrer"><picture>
+<img height="60" width="60" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/java-colored.svg" alt="Java" />
 </picture></a> &nbsp;
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/python-colored.svg" alt="Python" />
+<a href="https://github.com/lakshyajain1508/Python" target="_blank" rel="noreferrer"><picture>
+<img height="60" width="60" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/python-colored.svg" alt="Python" />
 </picture></a> &nbsp;
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/django-colored-dark.svg" alt="Django" />
+<a href="https://github.com/lakshyajain1508/Django" target="_blank" rel="noreferrer"><picture>
+<img height="60" width="60" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/django-colored-dark.svg" alt="Django" />
 </picture></a> &nbsp;
 </div>
 
