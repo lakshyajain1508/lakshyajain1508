@@ -1,9 +1,12 @@
-# Hey, I'm Lakshya Jain <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/attitude.gif" width="40">
+# Hey, I'm Lakshya Jain <a href="https://github.com/lakshyajain1508"> <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/attitude.gif" width="40"></a>
 
 Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I love coding and building innovative projects, and I'm always exploring new technologies.
 
 <h1>
-<img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/rocket_1f680.gif" width="35"> About Me
+ <a href="https://github.com/lakshyajain1508">
+<img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/rocket_1f680.gif" width="35"> 
+ </a>
+ About Me
 </h1>
 
 - 🔭 I’m currently working on **Focusing On Skills Updating**
@@ -15,7 +18,9 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 
 
 <h1>
- <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/laptop.gif" width="40">  Skills 
+ <a href="https://github.com/lakshyajain1508">
+ <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/laptop.gif" width="40">
+ </a>  Skills 
 </h1>
 
 
@@ -66,7 +71,10 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 </div>
 
 <h1>
-<img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/hammer.gif" width="60">Contributions
+ <a href="https://github.com/lakshyajain1508">
+<img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/hammer.gif" width="60">
+ </a>
+Contributions
 </h1>
 
 <div align="center">
@@ -76,7 +84,10 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 </div>
 
 <h1>
-<img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/stats.gif" width="45"> Badges
+<a href="https://github.com/lakshyajain1508">
+<img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/stats.gif" width="45">
+</a> 
+Badges
 </h1>
 
 <div align="center">
@@ -92,7 +103,10 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 </div>
 
 <h1>
-<img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/social.gif" width="35"> Social
+<a href="https://github.com/lakshyajain1508">
+<img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/social.gif" width="35">
+</a>
+Social
 </h1>
 
 
@@ -122,7 +136,10 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 </div>
 
 <h1>
-<img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/music.gif" width="40"> Listening
+<a href="https://github.com/lakshyajain1508">
+<img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/music.gif" width="40"> 
+</a>
+Listening
 </h1>
 <div align=center>
 <br/>
