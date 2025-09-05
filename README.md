@@ -44,33 +44,34 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 <a href="#" target="_blank" rel="noreferrer">
  <img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/tailwindcss-colored.svg" alt="TailwindCSS" /></a>
 </picture> &nbsp;
-<a href="#" target="_blank" rel="noreferrer"><picture>
-<img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/jquery-colored.svg" alt="JQuery" />
-</picture></a> &nbsp;
-<a href="https://github.com/lakshyajain1508/Javascript"><picture>
-<img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/javascript-colored.svg" alt="JavaScript" />
-</picture></a> &nbsp;<br><br>
-<a href="https://github.com/lakshyajain1508/sjcem/tree/main/C" target="_blank" rel="noreferrer"><picture>
-<img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/c-colored.svg" alt="C" />
-</picture></a> &nbsp;
-<a href="https://github.com/lakshyajain1508/CPP" target="_blank" rel="noreferrer"><picture>
-<img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/cplusplus-colored.svg" alt="C++" />
-</picture></a> &nbsp;
-<a href="https://github.com/lakshyajain1508/MySQL" target="_blank" rel="noreferrer"><picture>
-<img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/mysql-colored.svg" alt="MySQL" />
-</picture></a> &nbsp;
-<a href="#" target="_blank" rel="noreferrer"><picture>
-<img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/mongodb-colored.svg" alt="MongoDB" />
-</picture></a> &nbsp;
-<a href="https://github.com/lakshyajain1508/sjcem/tree/main/Java%20Code" target="_blank" rel="noreferrer"><picture>
-<img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/java-colored.svg" alt="Java" />
-</picture></a> &nbsp;
-<a href="https://github.com/lakshyajain1508/Python" target="_blank" rel="noreferrer"><picture>
-<img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/python-colored.svg" alt="Python" />
-</picture></a> &nbsp;
-<a href="https://github.com/lakshyajain1508/Django" target="_blank" rel="noreferrer"><picture>
-<img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/django-colored-dark.svg" alt="Django" />
-</picture></a> &nbsp;
+<picture>
+<a href="#" target="_blank" rel="noreferrer">
+<img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/jquery-colored.svg" alt="JQuery" /></a>
+</picture> &nbsp;
+<picture><a href="https://github.com/lakshyajain1508/Javascript">
+<img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/javascript-colored.svg" alt="JavaScript" /></a>
+</picture> &nbsp;<br><br>
+<picture><a href="https://github.com/lakshyajain1508/sjcem/tree/main/C" target="_blank" rel="noreferrer">
+<img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/c-colored.svg" alt="C" /></a>
+</picture> &nbsp;
+<picture><a href="https://github.com/lakshyajain1508/CPP" target="_blank" rel="noreferrer">
+<img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/cplusplus-colored.svg" alt="C++" /></a>
+</picture> &nbsp;
+<picture><a href="https://github.com/lakshyajain1508/MySQL" target="_blank" rel="noreferrer">
+<img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/mysql-colored.svg" alt="MySQL" /></a>
+</picture> &nbsp;
+<picture><a href="#" target="_blank" rel="noreferrer">
+<img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/mongodb-colored.svg" alt="MongoDB" /></a>
+</picture> &nbsp;
+<picture><a href="https://github.com/lakshyajain1508/sjcem/tree/main/Java%20Code" target="_blank" rel="noreferrer">
+<img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/java-colored.svg" alt="Java" /></a>
+</picture> &nbsp;
+<picture><a href="https://github.com/lakshyajain1508/Python" target="_blank" rel="noreferrer">
+<img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/python-colored.svg" alt="Python" /></a>
+</picture> &nbsp;
+<picture><a href="https://github.com/lakshyajain1508/Django" target="_blank" rel="noreferrer">
+<img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/django-colored-dark.svg" alt="Django" /></a>
+</picture> &nbsp;
 </div>
 
 <h1>
