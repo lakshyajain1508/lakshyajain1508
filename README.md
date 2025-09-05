@@ -27,9 +27,9 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 
 <div align="center">
 <br/>
-<a href="https://github.com/lakshyajain1508/HTML-CSS" target="_blank" rel="noreferrer"><picture>
-<img height="60" width="60" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/html5-colored.svg" alt="HTML5" />
-</picture></a> &nbsp;
+<picture><a href="https://github.com/lakshyajain1508/HTML-CSS" target="_blank" rel="noreferrer">
+<img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/html5-colored.svg" alt="HTML5" /></a>
+</picture> &nbsp;
 <a href="https://github.com/lakshyajain1508/HTML-CSS" target="_blank" rel="noreferrer"><picture>
 <img height="60" width="60" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/css3-colored.svg" alt="CSS3" />
 </picture></a> &nbsp;
