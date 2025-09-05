@@ -117,27 +117,20 @@ Social
 
 <div align="center">
 <br/>
-
+ 
+<picture>
 <a href="https://www.github.com/lakshyajain1508" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
-</picture>
-</a> &nbsp;
-<a href="https://www.linkedin.com/in/lakshya-jain-084136361" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="linkedin" />
-</picture>
-</a> &nbsp;
-<a href="https://www.instagram.com/lakshya_jain15_" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg" alt="instagram" />
-</picture>
-</a> &nbsp;
-<a href="https://www.threads.net/@lakshya_jain15_" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/threads-dark.svg" alt="threads" />
-</picture>
-</a> &nbsp;
+<img height="30" width="30" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/github-dark.svg" alt="github" /></a>
+</picture> &nbsp;
+<picture><a href="https://www.linkedin.com/in/lakshya-jain-084136361" target="_blank" rel="noreferrer">
+<img height="30" width="30" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/linkedin.svg" alt="linkedin" /></a>
+</picture> &nbsp;
+<picture><a href="https://www.instagram.com/lakshya_jain15_" target="_blank" rel="noreferrer">
+<img height="30" width="30" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/instagram.svg" alt="instagram" /></a>
+</picture> &nbsp;
+<picture><a href="https://www.threads.net/@lakshya_jain15_" target="_blank" rel="noreferrer">
+<img height="30" width="30" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/threads-dark.svg" alt="threads" /></a>
+</picture> &nbsp;
 </div>
 
 <h1>
