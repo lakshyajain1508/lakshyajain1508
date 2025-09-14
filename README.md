@@ -17,18 +17,6 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Found me 😴**
 
-
-<h1>
- <a href="https://github.com/lakshyajain1508">
-  <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/college.gif" width="40">
- </a> College Practical 
-</h1>
-
-- [Python](https://github.com/lakshyajain1508/sjcem/tree/main/Python)
-- [DSA in C](https://github.com/lakshyajain1508/sjcem/tree/main/DSA)
-- [DBMS](https://github.com/lakshyajain1508/sjcem/tree/main/DBMS)
-- [Practice Code](https://github.com/lakshyajain1508/sjcem/tree/main/Practice)
-
 <h1>
  <a href="https://github.com/lakshyajain1508">
  <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/laptop.gif" width="40">
@@ -84,6 +72,18 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 <img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/django-colored-dark.svg" alt="Django" /></a>
 </picture> &nbsp;
 </div>
+
+<h1>
+ <a href="https://github.com/lakshyajain1508">
+  <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/college.gif" width="50">
+ </a> College Practical 
+</h1>
+
+- [Python](https://github.com/lakshyajain1508/sjcem/tree/main/Python)
+- [DSA in C](https://github.com/lakshyajain1508/sjcem/tree/main/DSA)
+- [DBMS](https://github.com/lakshyajain1508/sjcem/tree/main/DBMS)
+- [Practice Code](https://github.com/lakshyajain1508/sjcem/tree/main/Practice)
+
 
 <h1>
  <a href="https://github.com/lakshyajain1508">
