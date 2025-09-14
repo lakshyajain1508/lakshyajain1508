@@ -24,6 +24,11 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
  </a> College Practical 
 </h1>
 
+- [Python](https://github.com/lakshyajain1508/sjcem/tree/main/Python)
+- [DSA in C](https://github.com/lakshyajain1508/sjcem/tree/main/DSA)
+- [DBMS](https://github.com/lakshyajain1508/sjcem/tree/main/DBMS)
+- [Practice Code](https://github.com/lakshyajain1508/sjcem/tree/main/Practice)
+
 <h1>
  <a href="https://github.com/lakshyajain1508">
  <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/laptop.gif" width="40">
