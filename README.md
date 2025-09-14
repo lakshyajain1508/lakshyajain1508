@@ -75,7 +75,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 
 <h1>
  <a href="https://github.com/lakshyajain1508">
-  <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/college.gif" width="50">
+  <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/college.gif" width="48">
  </a> College Practical 
 </h1>
 
@@ -84,6 +84,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 - [DBMS](https://github.com/lakshyajain1508/sjcem/tree/main/DBMS)
 - [Practice Code](https://github.com/lakshyajain1508/sjcem/tree/main/Practice)
 
+<br/>
 
 <h1>
  <a href="https://github.com/lakshyajain1508">
