@@ -20,6 +20,12 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 
 <h1>
  <a href="https://github.com/lakshyajain1508">
+  <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/college.gif" width="40">
+ </a> College Practical 
+</h1>
+
+<h1>
+ <a href="https://github.com/lakshyajain1508">
  <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/laptop.gif" width="40">
  </a>  Skills 
 </h1>
