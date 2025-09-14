@@ -154,7 +154,7 @@ Listening
 <div align=center>
 <br/>
   
-[![Spotify](https://spotify-for-readme-sigma.vercel.app/api/spotify)]([https://open.spotify.com/lakshyajain1508/13vxh61m2o4xkfgcot0zkgi5j](https://open.spotify.com/playlist/2yCVRKOoDoQJJPWpBV0TBC?si=a0f2dc257f044d50))
+[![Spotify](https://spotify-for-readme-sigma.vercel.app/api/spotify)]([https://open.spotify.com/user/13vxh61m2o4xkfgcot0zkgi5j](https://open.spotify.com/playlist/2yCVRKOoDoQJJPWpBV0TBC?si=a0f2dc257f044d50))
 
 Thank you for visiting my profile! 😄
 </div>
