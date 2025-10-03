@@ -1,7 +1,9 @@
 # Hey, I'm Lakshya Jain <a href="https://github.com/lakshyajain1508"> <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/attitude.gif" width="40"></a>
 
 Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I love coding and building innovative projects, and I'm always exploring new technologies.
-
+<br>
+<br>
+<img src="https://komarev.com/ghpvc/?username=lakshyajain1508&color=red&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 40px;">
 <h1>
  <a href="https://github.com/lakshyajain1508">
 <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/rocket_1f680.gif" width="35"> 
