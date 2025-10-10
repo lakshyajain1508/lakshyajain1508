@@ -119,7 +119,7 @@ Badges
 <br/>
 <img src="https://github-readme-stats-eta-ten-57.vercel.app/api/top-langs/?username=lakshyajain1508&langs_count=8&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="TopLanguages" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=lakshyajain1508&theme=dark&hide_border=true&include_all_commits=false&count_private=true&alt=%22lakshyajain1508%27s%20GitHub%20stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=lakshyajain1508&theme=dark&hide_border=true&include_all_commits=false&count_private=true&alt=%22lakshyajain1508%27s%20GitHub%20stats%22%20/%3E" />
 <br/><br/>
 </div>
 </a>
