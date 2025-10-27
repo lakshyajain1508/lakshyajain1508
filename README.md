@@ -1,4 +1,4 @@
-3# Hey, I'm Lakshya Jain <a href="https://github.com/lakshyajain1508"> <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/attitude.gif" width="40"></a>
+# Hey, I'm Lakshya Jain <a href="https://github.com/lakshyajain1508"> <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/attitude.gif" width="40"></a>
 
 Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I love coding and building innovative projects, and I'm always exploring new technologies.
 <br>
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 
 - 🔭 I’m currently working on **Focusing On Skills Updating**
 - 🌱 I’m currently learning <a href="https://github.com/lakshyajain1508/Python"><span>**Python**</span></a>
-- 💬 Ask me about <a href="https://github.com/lakshyajain1508/CPP"><span>**CPP**<span></a>
+- 💬 Ask me about <a href="https://github.com/lakshyajain1508/Javascript"><span>**Javascript**<span></a>
 
 - 📫 How to reach me: lakshyajain1508@gmail.com
 - 😄 Pronouns: **He/Him**
