@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
  <img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/tailwindcss-colored.svg" alt="TailwindCSS" /></a>
 </picture> &nbsp;
 <picture>
-<a href="https://github.com/lakshyajain1508/jQuery" target="_blank" rel="noreferrer">
+<a href="https://lakshyajain1508.github.io/jQuery/" target="_blank" rel="noreferrer">
 <img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/jquery-colored.svg" alt="JQuery" /></a>
 </picture> &nbsp;
 <picture><a href="https://github.com/lakshyajain1508/Javascript">
