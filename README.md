@@ -83,9 +83,8 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
  </a> College Practical 
 </h1>
 
-- [Python](https://github.com/lakshyajain1508/sjcem/tree/main/Python)
-- [DSA in C](https://github.com/lakshyajain1508/sjcem/tree/main/DSA)
-- [DBMS](https://github.com/lakshyajain1508/sjcem/tree/main/DBMS5)
+- [AOA](https://github.com/lakshyajain1508/sjcem/tree/main/AOA)
+- [OS](https://github.com/lakshyajain1508/sjcem/tree/main/OS)
 - [Practice Code](https://github.com/lakshyajain1508/sjcem/tree/main/Practice)
 
 <br/>
