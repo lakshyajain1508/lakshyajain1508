@@ -120,6 +120,7 @@ Badges
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshyajain1508&langs_count=8&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="TopLanguages" />
 <br/>
+<img src="https://nirzak-streak-stats.vercel.app?user=lakshyajain1508&theme=dark&hide_border=true" />
 </div>
 </a>
  
