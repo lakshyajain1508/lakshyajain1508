@@ -89,21 +89,23 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 
 <br/>
 
+
 <h1>
- <a href="https://github.com/lakshyajain1508">
+<a href="https://github.com/lakshyajain1508">
 <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/hammer.gif" width="60">
  </a>
 Contributions
+
 </h1>
 
-<a href="https://github.com/lakshyajain1508">
+
 <div align="center">
   
 ![space-shooter gif](https://github.com/lakshyajain1508/lakshyajain1508/blob/main/assets/space-shooter.gif)
 
   
 </div>
-</a>
+
 
 <h1>
 <a href="https://github.com/lakshyajain1508">
