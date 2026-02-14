@@ -2,7 +2,8 @@ name: Update Space Shooter GIF
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -14,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # 🔴 THIS STEP MUST BE HERE
+      # Create assets directory
       - name: Create assets directory
         run: mkdir -p assets
 
