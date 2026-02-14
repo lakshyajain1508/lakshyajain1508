@@ -99,7 +99,8 @@ Contributions
 <a href="https://github.com/lakshyajain1508">
 <div align="center">
   
-![snake gif](https://github.com/lakshyajain1508/lakshyajain1508/blob/output/github-snake.svg)
+![space-shooter gif](https://github.com/lakshyajain1508/lakshyajain1508/blob/main/assets/space-shooter.gif)
+
   
 </div>
 </a>
