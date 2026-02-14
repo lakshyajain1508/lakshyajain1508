@@ -6,6 +6,19 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
  <a href="https://github.com/lakshyajain1508">
 <img src="https://komarev.com/ghpvc/?username=lakshyajain1508&color=blue&style=flat&label=Profile+Views" alt="Profile views" style="width: 200px; height: 40px;">
  </a>
+
+<h1>
+<a href="https://github.com/lakshyajain1508">
+<img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/hammer.gif" width="60">
+ </a>
+Contributions
+</h1>
+<div align="center">
+ 
+ ![space-shooter gif](https://github.com/lakshyajain1508/lakshyajain1508/blob/main/assets/space-shooter.gif)
+ 
+</div>
+ 
 <h1>
  <a href="https://github.com/lakshyajain1508">
 <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/rocket_1f680.gif" width="35"> 
@@ -89,24 +102,6 @@ Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I
 
 <br/>
 
-
-<h1>
-<a href="https://github.com/lakshyajain1508">
-<img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/hammer.gif" width="60">
- </a>
-Contributions
-
-</h1>
-
-
-<div align="center">
-  
-![space-shooter gif](https://github.com/lakshyajain1508/lakshyajain1508/blob/main/assets/space-shooter.gif)
-
-  
-</div>
-
-
 <h1>
 <a href="https://github.com/lakshyajain1508">
 <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/stats.gif" width="45">
@@ -121,9 +116,6 @@ Badges
 <a href="https://github.com/lakshyajain1508">
 <img src="https://nirzak-streak-stats.vercel.app?user=lakshyajain1508&theme=dark&hide_border=true" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshyajain1508&langs_count=8&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="TopLanguages" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=lakshyajain1508&theme=dark&hide_border=true" />
 </div>
 </a>
  
