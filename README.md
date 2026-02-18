@@ -21,21 +21,6 @@ Contributions
  
 <h1>
  <a href="https://github.com/lakshyajain1508">
-<img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/rocket_1f680.gif" width="35"> 
- </a>
- About Me
-</h1>
-
-- 🔭 I’m currently working on **Focusing On Skills Updating**
-- 🌱 I’m currently learning <a href="https://github.com/lakshyajain1508/Python"><span>**Python**</span></a>
-- 💬 Ask me about <a href="https://github.com/lakshyajain1508/Javascript"><span>**Javascript**<span></a>
-
-- 📫 How to reach me: lakshyajain1508@gmail.com
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **Found me 😴**
-
-<h1>
- <a href="https://github.com/lakshyajain1508">
  <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/laptop.gif" width="40">
  </a>  Skills 
 </h1>
@@ -89,16 +74,6 @@ Contributions
 <img height="60" width="60" src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/SVG/django-colored-dark.svg" alt="Django" /></a>
 </picture> &nbsp;
 </div>
-
-<h1>
- <a href="https://github.com/lakshyajain1508">
-  <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/college0.gif" width="48">
- </a> College Practical 
-</h1>
-
-- [AOA](https://github.com/lakshyajain1508/sjcem/tree/main/AOA)
-- [OS](https://github.com/lakshyajain1508/sjcem/tree/main/OS)
-- [Practice Code](https://github.com/lakshyajain1508/sjcem/tree/main/Practice)
 
 <br/>
 
