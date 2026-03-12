@@ -1,6 +1,6 @@
 # Hey, I'm Lakshya Jain <a href="https://github.com/lakshyajain1508"> <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/attitude.gif" width="40"></a>
 
-<h4>Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I love coding and building innovative projects, and I'm always exploring new technologies.</h4>
+<h3>Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I love coding and building innovative projects, and I'm always exploring new technologies.</h3>
 <br>
  <a href="https://github.com/lakshyajain1508">
 <img src="https://komarev.com/ghpvc/?username=lakshyajain1508&color=blue&style=flat&label=Profile+Views" alt="Profile views" style="width: 200px; height: 40px;">
