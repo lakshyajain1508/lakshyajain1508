@@ -88,7 +88,7 @@ Badges
 #### My GitHub Stats
 
 <a href="https://github.com/lakshyajain1508">
-<img src="https://nirzak-streak-stats.vercel.app?user=lakshyajain1508&theme=dark&hide_border=true" />
+   <img src="https://streak-stats.demolab.com?user=lakshyajain1508&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" height="180"/>
 <br/>
 </div>
 </a>
