@@ -127,9 +127,7 @@ Listening
 </h1>
 <div align=center>
 <br/>
-  
-[![Spotify](https://spotify-for-readme-sigma.vercel.app/api/spotify)]([https://open.spotify.com/user/13vxh61m2o4xkfgcot0zkgi5j](https://open.spotify.com/lakshyajain1508/31bjxihmptihm3wesx7ghiw4m2ei?si=4f87faddbb4040cd))
 
+[![Spotify Playlist](https://img.shields.io/badge/🎧%20My%20Playlist-Listen%20Now-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/2yCVRKOoDoQJJPWpBV0TBC?si=0859c3c78a0d4116)
 
-Thank you for visiting my profile! 😄
 </div>
