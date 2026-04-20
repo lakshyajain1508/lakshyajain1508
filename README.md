@@ -88,7 +88,13 @@ Badges
 #### My GitHub Stats
 
 <a href="https://github.com/lakshyajain1508">
-   <img src="https://streak-stats.demolab.com?user=lakshyajain1508&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" height="180"/>
+<img src="https://github-readme-stats.shion.dev/api?username=lakshyajain1508&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
+<br/>
+<br/>
+<img src="https://streak-stats.demolab.com/?user=lakshyajain1508&theme=dark&hide_border=true"/>
+<br/>
+<br/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lakshyajain1508&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 <br/>
 </div>
 </a>
