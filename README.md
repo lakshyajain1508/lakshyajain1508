@@ -1,4 +1,6 @@
-# Hey, I'm Lakshya Jain <a href="https://github.com/lakshyajain1508"> <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/attitude.gif" width="40"></a>
+# Hey, I'm Lakshya Jain 
+
+<a href="https://github.com/lakshyajain1508"> <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/attitude.gif" width="40"></a>
 
 <h3>Welcome to my GitHub profile! I'm a passionate developer and lifelong learner. I love coding and building innovative projects, and I'm always exploring new technologies.</h3>
 <br>
