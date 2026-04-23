@@ -24,7 +24,6 @@ Contributions
  </a>  Skills 
 </h1>
 
-
 <div align="center">
 <br/>
 <picture><a href="https://github.com/lakshyajain1508/HTML-CSS" target="_blank" rel="noreferrer">
