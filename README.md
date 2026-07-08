@@ -16,6 +16,8 @@ Contributions
 <div align="center">
  
  ![space-shooter gif](https://github.com/lakshyajain1508/lakshyajain1508/blob/main/assets/space-shooter.gif)
+ <br>
+ ![snake-game](https://github.com/lakshyajain1508/lakshyajain1508/blob/output/github-snake.svg)
  
 </div>
  
