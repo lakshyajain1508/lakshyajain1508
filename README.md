@@ -80,6 +80,14 @@ Contributions
 
 <h1>
 <a href="https://github.com/lakshyajain1508">
+<img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/fire.gif" width="45">
+</a> 
+Things I'm Building
+</h1>
+
+
+<h1>
+<a href="https://github.com/lakshyajain1508">
 <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/stats.gif" width="45">
 </a> 
 Badges
