@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="frontend/asset/eventwala-wordmark.png" alt="EventWala" width="460" />
+  <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/event.png" alt="EventWala" width="460" />
 
   <h3>Smart Event Planning, Management & Analytics</h3>
   <p><strong>Planning se payment tak, sab sorted!</strong></p>
