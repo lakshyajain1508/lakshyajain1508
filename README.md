@@ -84,75 +84,87 @@ Contributions
 </a> 
 Things I'm Building
 </h1>
+<!-- ROW 1: PORTFOLIO + SAFECROWD -->
 <table width="100%">
 <tr>
-<td width="25%" valign="top">
-<h3>🌐 Project 1: Portfolio</h3>
+<td width="50%" valign="top">
+<h2>🌐 1. Portfolio</h2>
 <p>My personal developer portfolio showcasing my profile, skills, selected projects, and ways to connect with me.</p>
-<p><strong>Tech Stack / Highlights</strong></p>
-<p><img src="https://img.shields.io/badge/Developer-Portfolio-7C7CFF?style=flat-square" alt="Developer Portfolio" /> <img src="https://img.shields.io/badge/Projects-Showcase-3776AB?style=flat-square" alt="Projects Showcase" /></p>
-<p><a href="https://lakshyajainportfolio.netlify.app/"><img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-7C7CFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Portfolio" /></a></p>
+<p><strong>Highlights</strong></p>
+<p><img src="https://img.shields.io/badge/Personal-Portfolio-7C7CFF?style=flat-square" alt="Personal Portfolio" /> <img src="https://img.shields.io/badge/Project-Showcase-3776AB?style=flat-square" alt="Project Showcase" /></p>
+<p><a href="https://lakshyajainportfolio.netlify.app/"><strong>↗ View Live Portfolio</strong></a></p>
 </td>
-<td width="25%" valign="top">
-<h3>🚨 Project 2: SafeCrowd</h3>
+<td width="50%" valign="top">
+<h2>🚨 2. SafeCrowd</h2>
 <p>An AI-powered crowd safety platform featuring real-time crowd detection, density analysis, overcrowding alerts, SOS requests, interactive maps, and 3D visualization.</p>
 <p><strong>Tech Stack</strong></p>
-<p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/YOLOv8-8A2BE2?style=flat-square" alt="YOLOv8" /> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square" alt="Leaflet" /></p>
-<p><a href="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/Projects/safecrowd.md"><img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-7C7CFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore SafeCrowd" /></a></p>
-</td>
-<td width="25%" valign="top">
-<h3>🎉 Project 3: EventWala</h3>
-<p>An event planning and management platform for budget estimation, venue recommendations, volunteer coordination, task tracking, resource allocation, finances, and reports.</p>
-<p><strong>Tech Stack</strong></p>
-<p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" /></p>
-<p><a href="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/Projects/EventWala.md"><img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-7C7CFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore EventWala" /></a></p>
-</td>
-<td width="25%" valign="top">
-<h3>📊 Project 4: InsightX</h3>
-<p>An AI-powered data analyst that transforms CSV and Excel datasets into interactive dashboards, root-cause insights, what-if simulations, forecasting, and auditable natural-language answers.</p>
-<p><strong>Tech Stack</strong></p>
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/WebGPU-F59E0B?style=flat-square" alt="WebGPU" /></p>
-<p><a href="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/Projects/Insightx.md"><img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-7C7CFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore InsightX" /></a></p>
+<p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/YOLOv8-8A2BE2?style=flat-square" alt="YOLOv8" /></p>
+<p><a href="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/Projects/safecrowd.md"><strong>↗ Explore SafeCrowd</strong></a></p>
 </td>
 </tr>
 </table>
 
-<!-- ROW 2: PROJECTS 5-8 -->
+<!-- ROW 2: EVENTWALA + INSIGHTX -->
 <table width="100%">
 <tr>
-<td width="25%" valign="top">
-<h3>📱 Project 5: ScanMitra</h3>
-<p>A smart college attendance system with ID barcode scanning, manual attendance, offline-first recording, automatic synchronization, timetable management, notifications, and role-based dashboards.</p>
+<td width="50%" valign="top">
+<h2>🎉 3. EventWala</h2>
+<p>An event planning and management platform that helps organizers manage budgets, recommend venues, coordinate volunteers, track tasks and resources, manage finances, and generate reports.</p>
 <p><strong>Tech Stack</strong></p>
-<p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/IndexedDB-4479A1?style=flat-square" alt="IndexedDB" /></p>
-<p><a href="https://smart-attendance-system-five-phi.vercel.app/"><img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-7C7CFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore ScanMitra" /></a></p>
+<p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="Scikit-learn" /></p>
+<p><a href="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/Projects/EventWala.md"><strong>↗ Explore EventWala</strong></a></p>
 </td>
-<td width="25%" valign="top">
-<h3>🪖 Project 6: Helmet Detection</h3>
-<p>A real-time computer vision system that detects helmet and no-helmet cases for motorcycle riders from images, videos, and live webcam feeds.</p>
+<td width="50%" valign="top">
+<h2>📊 4. InsightX</h2>
+<p>An AI-powered data analyst that transforms CSV and Excel datasets into interactive dashboards, root-cause insights, what-if simulations, forecasting, and auditable natural-language answers.</p>
 <p><strong>Tech Stack</strong></p>
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/YOLOv8n-8A2BE2?style=flat-square" alt="YOLOv8n" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" /></p>
-<p><a href="https://github.com/lakshyajain1508/Helmet-Detection"><img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-7C7CFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Helmet Detection" /></a></p>
-</td>
-<td width="25%" valign="top">
-<h3>🎓 Project 7: GitHub Academy</h3>
-<p>An interactive, beginner-friendly learning website that explains Git and GitHub in simple English through practical examples, command guides, visual workflows, learning progress, and quizzes.</p>
-<p><strong>Tech / Focus</strong></p>
-<p><img src="https://img.shields.io/badge/Git-Basics-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git Basics" /> <img src="https://img.shields.io/badge/GitHub-Learning-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub Learning" /> <img src="https://img.shields.io/badge/Interactive-Quiz-7C7CFF?style=flat-square" alt="Interactive Quiz" /></p>
-<p><a href="https://github-academy.netlify.app/"><img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-7C7CFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore GitHub Academy" /></a></p>
-</td>
-<td width="25%" valign="top">
-<h3>🏠 Project 8: KD-Louvers</h3>
-<p>A responsive product showcase for premium charcoal louvers and decorative laminate panels, featuring product listings, a catalog, product pages, and a contact form.</p>
-<p><strong>Tech Stack</strong></p>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" /></p>
-<p><a href="https://kd-louvers.netlify.app/"><img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-7C7CFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore KD-Louvers" /></a></p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" /></p>
+<p><a href="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/Projects/Insightx.md"><strong>↗ Explore InsightX</strong></a></p>
 </td>
 </tr>
 </table>
 
-<p align="center"><em>✨ Building ideas into reality, one project at a time.</em></p>
+<!-- ROW 3: SCANMITRA + HELMET DETECTION -->
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h2>📱 5. ScanMitra</h2>
+<p>A smart college attendance system with ID barcode scanning, manual attendance, offline-first recording, automatic synchronization, timetable management, notifications, and role-based dashboards.</p>
+<p><strong>Tech Stack</strong></p>
+<p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" /></p>
+<p><a href="https://smart-attendance-system-five-phi.vercel.app/"><strong>↗ View Live Project</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h2>🪖 6. Helmet Detection</h2>
+<p>A computer vision system using a lightweight YOLOv8 model to detect helmet and no-helmet cases from images, videos, and live webcam feeds to support road safety monitoring.</p>
+<p><strong>Tech Stack</strong></p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" /></p>
+<p><a href="https://github.com/lakshyajain1508/Helmet-Detection"><strong>↗ View Repository</strong></a></p>
+</td>
+</tr>
+</table>
 
+<!-- ROW 4: GITHUB ACADEMY + KD-LOUVERS -->
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h2>🎓 7. GitHub Academy</h2>
+<p>A beginner-friendly learning website that explains Git and GitHub through simple explanations, practical examples, command guides, visual workflows, and interactive learning activities.</p>
+<p><strong>Learning Focus</strong></p>
+<p><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Beginner--Friendly-7C7CFF?style=flat-square" alt="Beginner Friendly" /></p>
+<p><a href="https://github-academy.netlify.app/"><strong>↗ Start Learning</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<h2>🏠 8. KD-Louvers</h2>
+<p>A responsive product showcase website for louvers and decorative products, featuring a product catalog, individual product pages, and a contact form.</p>
+<p><strong>Tech Stack</strong></p>
+<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" /></p>
+<p><a href="https://kd-louvers.netlify.app/"><strong>↗ View Live Website</strong></a></p>
+</td>
+</tr>
+</table>
+
+<p align="center"><em>✨ Learning by building. Growing through every project.</em></p>
 <h1>
 <a href="https://github.com/lakshyajain1508">
 <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/stats.gif" width="45">
