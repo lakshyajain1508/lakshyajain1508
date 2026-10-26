@@ -84,7 +84,94 @@ Contributions
 </a> 
 Things I'm Building
 </h1>
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
+<h3>🤖 Project 1</h3>
+<p>[Write your project description here.]</p>
+<p><strong>Tech Stack</strong></p>
+<p>
+<img src="https://img.shields.io/badge/Technology_1-3776AB?style=flat-square" alt="Technology 1" />
+<img src="https://img.shields.io/badge/Technology_2-8A63D2?style=flat-square" alt="Technology 2" />
+</p>
+<p><a href="YOUR_PROJECT_LINK"><img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-7C7CFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Project" /></a></p>
+</td>
+<td width="25%" valign="top">
+<h3>💻 Project 2</h3>
+<p>[Write your project description here.]</p>
+<p><strong>Tech Stack</strong></p>
+<p>
+<img src="https://img.shields.io/badge/Technology_1-3776AB?style=flat-square" alt="Technology 1" />
+<img src="https://img.shields.io/badge/Technology_2-8A63D2?style=flat-square" alt="Technology 2" />
+</p>
+<p><a href="YOUR_PROJECT_LINK"><img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-7C7CFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Project" /></a></p>
+</td>
+<td width="25%" valign="top">
+<h3>🌐 Project 3</h3>
+<p>[Write your project description here.]</p>
+<p><strong>Tech Stack</strong></p>
+<p>
+<img src="https://img.shields.io/badge/Technology_1-3776AB?style=flat-square" alt="Technology 1" />
+<img src="https://img.shields.io/badge/Technology_2-8A63D2?style=flat-square" alt="Technology 2" />
+</p>
+<p><a href="YOUR_PROJECT_LINK"><img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-7C7CFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Project" /></a></p>
+</td>
+<td width="25%" valign="top">
+<h3>⚡ Project 4</h3>
+<p>[Write your project description here.]</p>
+<p><strong>Tech Stack</strong></p>
+<p>
+<img src="https://img.shields.io/badge/Technology_1-3776AB?style=flat-square" alt="Technology 1" />
+<img src="https://img.shields.io/badge/Technology_2-8A63D2?style=flat-square" alt="Technology 2" />
+</p>
+<p><a href="YOUR_PROJECT_LINK"><img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-7C7CFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Project" /></a></p>
+</td>
+</tr>
+<tr>
+<td width="25%" valign="top">
+<h3>🎨 Project 5</h3>
+<p>[Write your project description here.]</p>
+<p><strong>Tech Stack</strong></p>
+<p>
+<img src="https://img.shields.io/badge/Technology_1-3776AB?style=flat-square" alt="Technology 1" />
+<img src="https://img.shields.io/badge/Technology_2-8A63D2?style=flat-square" alt="Technology 2" />
+</p>
+<p><a href="YOUR_PROJECT_LINK"><img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-7C7CFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Project" /></a></p>
+</td>
+<td width="25%" valign="top">
+<h3>🧠 Project 6</h3>
+<p>[Write your project description here.]</p>
+<p><strong>Tech Stack</strong></p>
+<p>
+<img src="https://img.shields.io/badge/Technology_1-3776AB?style=flat-square" alt="Technology 1" />
+<img src="https://img.shields.io/badge/Technology_2-8A63D2?style=flat-square" alt="Technology 2" />
+</p>
+<p><a href="YOUR_PROJECT_LINK"><img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-7C7CFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Project" /></a></p>
+</td>
+<td width="25%" valign="top">
+<h3>🔬 Project 7</h3>
+<p>[Write your project description here.]</p>
+<p><strong>Tech Stack</strong></p>
+<p>
+<img src="https://img.shields.io/badge/Technology_1-3776AB?style=flat-square" alt="Technology 1" />
+<img src="https://img.shields.io/badge/Technology_2-8A63D2?style=flat-square" alt="Technology 2" />
+</p>
+<p><a href="YOUR_PROJECT_LINK"><img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-7C7CFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Project" /></a></p>
+</td>
+<td width="25%" valign="top">
+<h3>✨ Project 8</h3>
+<p>[Write your project description here.]</p>
+<p><strong>Tech Stack</strong></p>
+<p>
+<img src="https://img.shields.io/badge/Technology_1-3776AB?style=flat-square" alt="Technology 1" />
+<img src="https://img.shields.io/badge/Technology_2-8A63D2?style=flat-square" alt="Technology 2" />
+</p>
+<p><a href="YOUR_PROJECT_LINK"><img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-7C7CFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Project" /></a></p>
+</td>
+</tr>
+</table>
 
+<p align="center"><em>✨ Learning by building. Improving with every experiment.</em></p>
 
 <h1>
 <a href="https://github.com/lakshyajain1508">
