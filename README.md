@@ -1,13 +1,11 @@
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:171717,100:383838&height=240&section=header&text=Lakshya%20Jain&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=IDEATE%20%E2%80%A2%20ENGINEER%20%E2%80%A2%20CREATE%20%E2%80%A2%20IMPACT&descAlignY=60&descSize=17&descColor=EAEAEA"/>
-</p>
-<br>
 <div align="center">
- <a href="https://github.com/lakshyajain1508">
-<img src="https://komarev.com/ghpvc/?username=lakshyajain1508&color=blue&style=flat&label=Profile+Views" alt="Profile views" style="width: 200px; height: 40px;">
- </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:171717,100:383838&height=190&section=header&text=Lakshya%20Jain&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=IDEATE%20%E2%80%A2%20ENGINEER%20%E2%80%A2%20CREATE%20%E2%80%A2%20IMPACT&descAlignY=62&descSize=16&descColor=EAEAEA" width="100%" alt="Lakshya Jain - Ideate, Engineer, Create, Impact"/>
+  <br/>
+  <a href="https://github.com/lakshyajain1508">
+    <img src="https://komarev.com/ghpvc/?username=lakshyajain1508&color=555555&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+  </a>
 </div>
+
 <h1>
 <a href="https://github.com/lakshyajain1508">
 <img src="https://github.com/lakshyajain1508/lakshyajain1508/blob/main/gif/hammer.gif" width="60">
