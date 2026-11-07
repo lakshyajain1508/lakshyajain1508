@@ -20,10 +20,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v7
 
-      - name: Generate streak stats
+      - name: Create output directory
+        run: mkdir -p profile
+
+      - name: Generate GitHub Streak Stats
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          options: "user=${{ github.repository_owner }}&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=AAAAAA&sideLabels=AAAAAA&dates=777777"
+          options: "user=${{ github.repository_owner }}&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=AAAAAA&sideLabels=AAAAAA&dates=777777"
           path: profile/streak.svg
 
       - name: Commit generated SVG
@@ -31,5 +34,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile/streak.svg
-          git commit -m "Update GitHub streak stats" || exit 0
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No changes to streak statistics."
+          else
+            git commit -m "Update GitHub streak statistics"
+            git push
+          fi
