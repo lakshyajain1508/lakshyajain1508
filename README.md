@@ -179,7 +179,7 @@ Badges
 <img src="https://github-readme-stats.shion.dev/api?username=lakshyajain1508&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
 <br/>
 <br/>
-<img src="https://streak-stats.demolab.com/?user=lakshyajain1508&theme=dark&hide_border=true"/>
+<img src="./profile/streak.svg" alt="Lakshya Jain GitHub Streak Stats" />
 <br/>
 <br/>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lakshyajain1508&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
