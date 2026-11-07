@@ -182,7 +182,10 @@ Badges
 <img src="https://raw.githubusercontent.com/lakshyajain1508/lakshyajain1508/main/profile/streak.svg" alt="Lakshya Jain GitHub Streak Stats" />
 <br/>
 <br/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lakshyajain1508&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lakshyajain1508&layout=normal&langs_count=6&theme=dark&hide_border=true&card_width=45&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA" alt="Lakshya Jain Top 6 Programming Languages"/>
+
+
 <br/>
 </div>
 </a>
